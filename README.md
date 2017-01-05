@@ -8,7 +8,7 @@ heartparser.py focuses on two specific sets of data:
 - Heart Rate in bpm
 - Blood Pressure
 
-The user chooses a start date and an end date to narrow the time range and can creates graphs such as shown below with the modules. The parse module inside of heartparser.py has been updated to match the spacing found in the export xml file produced with iOS 10. 
+The user chooses a start date and an end date to narrow the time range and can creates graphs with the modules, such as shown below. The parse module inside of heartparser.py has been updated to match the spacing found in the export xml file produced with iOS 10. 
 
 Required dependencies: numpy, matplotlib, pandas, seaborn
 
